@@ -44,14 +44,14 @@ table {
 }
 
 /* general */
-hr { width: 80% }
+hr { width: 80%; margin-block-start: 1rem; margin-block-end: 1rem }
 b, th { font-weight: bold }
 h1 { font-size: 2rem; text-align: center }
 h2 { font-size: 1.8rem }
 img { max-width: 100%; object-fit: contain }
 th, td { border: 1px solid }
 
-#header { display: grid; grid-template-columns: 1fr 2fr; align-items: center }
+#header { display: flex; justify-content: center; align-items: center; gap: 1rem }
 #header img { justify-self: center }
 
 body { margin: 1rem; padding: 1rem; border: 1px solid }
@@ -65,7 +65,7 @@ body { margin: 1rem; padding: 1rem; border: 1px solid }
 	body
 		{ display: flex
 		; flex-direction: column
-		; width: 32rem
+		; width: 36rem
 		; margin: 2rem
 		}
 	html { display: flex; justify-content: center }

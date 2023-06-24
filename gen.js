@@ -44,7 +44,7 @@ const to_url = x => x === '.'
 	: `${x}.html`
 
 const header = `
-	<div id=header><img src=img/bird.png><p>a webcomic of webcomic, webcomic and webcomic.</p></div>
+	<div id=header><a href=${to_url('.')}><img src=img/bird.png></a><p>free bird comics</p></div>
 	<nav class=header-nav><a href='${to_url('.')}'>index</a><a href='${to_url('about')}'>about</a></nav>
 	<hr>
 `
@@ -53,7 +53,7 @@ const index = `
 <!DOCTYPE html>
 <title>index</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel=stylesheet href=style.css>
+<link rel=stylesheet href=img/style.css>
 	${header}
 	<table>
 	<tr><th>id<th>title
@@ -66,7 +66,7 @@ const about = `
 <!DOCTYPE html>
 <title>index</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel=stylesheet href=style.css>
+<link rel=stylesheet href=img/style.css>
 	${header}
 	<p>A Tasteful Commentary On Nothing In Particular</p>
 `
@@ -79,7 +79,7 @@ const comic_to_page = c => `
 <!DOCTYPE html>
 <title>${c.title}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel=stylesheet href=style.css>
+<link rel=stylesheet href=img/style.css>
 
 <body>
 	${header}
