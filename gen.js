@@ -74,7 +74,7 @@ const index = `
 
 const about = `
 <!DOCTYPE html>
-<title>index</title>
+<title>about</title>
 <meta property='og:title' content='free bird comics - about'>
 <meta property='og:type' content='bird comics'>
 <meta property='og:image' content='https://todnjs.github.io/img/bird.png'>
