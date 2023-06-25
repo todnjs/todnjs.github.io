@@ -49,9 +49,19 @@ const header = `
 	<hr>
 `
 
+const comic_nav = c => `<nav class=comic-nav>
+${c.prev ? comic_to_link(c.prev) : '<b></b>'}
+←<b>${comic_to_pretty(c)}</b>
+←${c.next ? comic_to_link(c.next) : '<b></b>'}
+</nav>`
+
 const index = `
 <!DOCTYPE html>
 <title>index</title>
+<meta property='og:title' content='free bird comics'>
+<meta property='og:type' content='bird comics'>
+<meta property='og:image' content='https://todnjs.github.io/img/bird.png'>
+<meta property='og:description' content='free bird comics'>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel=stylesheet href=img/style.css>
 	${header}
@@ -65,6 +75,10 @@ const index = `
 const about = `
 <!DOCTYPE html>
 <title>index</title>
+<meta property='og:title' content='free bird comics - about'>
+<meta property='og:type' content='bird comics'>
+<meta property='og:image' content='https://todnjs.github.io/img/bird.png'>
+<meta property='og:description' content='A Tasteful Commentary On Nothing In Particular'>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel=stylesheet href=img/style.css>
 	${header}
@@ -88,13 +102,10 @@ const comic_to_page = c => `
 <body>
 	${header}
 
-	<nav class=comic-nav>
-		${c.prev ? comic_to_link(c.prev) : '<b></b>'}
-		←<b>${comic_to_pretty(c)}</b>
-		←${c.next ? comic_to_link(c.next) : '<b></b>'}
-		</nav>
+	${comic_nav(c)}
 	<h1>${c.title}</h1>
-	${c.files.map(x => `<img src='img/comic/${x}'>`).join('')}
+	<div class=images>${c.files.map(x => `<img src='img/comic/${x}'>`).join('')}</div>
+	${comic_nav(c)}
 </body>
 `
 
