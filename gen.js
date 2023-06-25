@@ -78,6 +78,10 @@ const comic_to_link = c =>
 const comic_to_page = c => `
 <!DOCTYPE html>
 <title>${c.title}</title>
+<meta property='og:title' content='${c.title}'>
+<meta property='og:type' content='bird comic'>
+<meta property='og:image' content='img/bird.png'>
+<meta property='og:description' content='an amusing bird comic entitled„${c.title}"'>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel=stylesheet href=img/style.css>
 
