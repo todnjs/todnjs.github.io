@@ -1,1374 +1,862 @@
 [
 	{
 		"id": "20210529",
-		"title": "문소리",
-		"files": [
-			"20210529-문소리.png"
-		]
+		"file": "문소리.png"
 	},
 	{
 		"id": "20210616a",
-		"title": "십팔",
-		"files": [
-			"20210616a-십팔.png"
-		]
+		"file": "십팔.png"
 	},
 	{
 		"id": "20210616b",
-		"title": "라떼",
-		"files": [
-			"20210616b-라떼.png"
-		]
+		"file": "라떼.png"
 	},
 	{
 		"id": "20210625",
-		"title": "까먹음",
-		"files": [
-			"20210625-까먹음.png"
-		]
+		"file": "까먹음.png"
 	},
 	{
 		"id": "20210916",
-		"title": "비가오는날에짐랸이내미래를보여준다",
-		"files": [
-			"20210916-비가오는날에짐랸이내미래를보여준다.png"
-		]
+		"file": "비가오는날에짐랸이내미래를보여준다.png"
 	},
 	{
 		"id": "20211024",
 		"title": "하하후후허허",
 		"files": [
-			"20211024-A1.png",
-			"20211024-A2.png"
+			"A1.png",
+			"A2.png"
 		]
 	},
 	{
 		"id": "20211106",
-		"title": "토",
-		"files": [
-			"20211106-토.png"
-		]
+		"file": "토.png"
 	},
 	{
 		"id": "20211107",
-		"title": "ㅅㅂ",
-		"files": [
-			"20211107-ㅅㅂ.png"
-		]
+		"file": "ㅅㅂ.png"
 	},
 	{
 		"id": "20211109",
-		"title": "쓰레기",
-		"files": [
-			"20211109-쓰레기.png"
-		]
+		"file": "쓰레기.png"
 	},
 	{
 		"id": "20211110",
 		"title": "돌",
 		"files": [
-			"20211110-돌1.png",
-			"20211110-돌2.png",
-			"20211110-돌3.png"
+			"돌1.png",
+			"돌2.png",
+			"돌3.png"
 		]
 	},
 	{
 		"id": "20211113",
 		"title": "돌2",
 		"files": [
-			"20211113-1.png",
-			"20211114-2.png"
+			"1.png",
+			"2.png"
 		]
 	},
 	{
 		"id": "20211117",
-		"title": "행복",
-		"files": [
-			"20211117-행복.png"
-		]
+		"file": "행복.png"
 	},
 	{
 		"id": "20211122",
-		"title": "돌팽",
-		"files": [
-			"20211122-돌팽.png"
-		]
+		"file": "돌팽.png"
 	},
 	{
 		"id": "20211202a",
-		"title": "떡갈비",
-		"files": [
-			"20211202a-떡갈비.png"
-		]
+		"file": "떡갈비.png"
 	},
 	{
 		"id": "20211202b",
-		"title": "말",
-		"files": [
-			"20211202b-말.png"
-		]
+		"file": "말.png"
 	},
 	{
 		"id": "20211203",
-		"title": "띵구",
-		"files": [
-			"20211203-띵구.png"
-		]
+		"file": "띵구.png"
 	},
 	{
 		"id": "20211204",
-		"title": "날수이셨다",
-		"files": [
-			"20211204-날수이셨다.png"
-		]
+		"file": "날수이셨다.png"
 	},
 	{
 		"id": "20211205",
-		"title": "또 처먹는다",
-		"files": [
-			"20211205-또 처먹는다.png"
-		]
+		"file": "또 처먹는다.png"
 	},
 	{
 		"id": "20211207",
 		"title": "바보",
 		"files": [
-			"20211207-1.png",
-			"20211207-2.png",
-			"20211207-3.png",
-			"20211207-4.png",
-			"20211207-바보.png"
+			"1.png",
+			"2.png",
+			"3.png",
+			"4.png",
+			"바보.png"
 		]
 	},
 	{
 		"id": "20211208",
 		"title": "새원",
 		"files": [
-			"20211208-새원1.png",
-			"20211208-새원2.png",
-			"20211208-새원3.png",
-			"20211208-새원4.png",
-			"20211208-새원5.png",
-			"20211208-새원6.png",
-			"20211208-새원7.png",
-			"20211208-새원8.png",
-			"20211208-새원9.png",
-			"20211208-새원10.png"
+			"새원1.png",
+			"새원2.png",
+			"새원3.png",
+			"새원4.png",
+			"새원5.png",
+			"새원6.png",
+			"새원7.png",
+			"새원8.png",
+			"새원9.png",
+			"새원10.png"
 		]
 	},
 	{
 		"id": "20211209a",
-		"title": "날불렀제",
-		"files": [
-			"20211209a-날불렀제.png"
-		]
+		"file": "날불렀제.png"
 	},
 	{
 		"id": "20211209b",
-		"title": "비행기",
-		"files": [
-			"20211209b-비행기.png"
-		]
+		"file": "비행기.png"
 	},
 	{
 		"id": "20211210a",
-		"title": "비행기2",
-		"files": [
-			"20211210a-비행기2.png"
-		]
+		"file": "비행기2.png"
 	},
 	{
 		"id": "20211210b",
-		"title": "후라이드",
-		"files": [
-			"20211210b-후라이드.png"
-		]
+		"file": "후라이드.png"
 	},
 	{
 		"id": "20211210c",
-		"title": "모자",
-		"files": [
-			"20211210c-모자.png"
-		]
+		"file": "모자.png"
 	},
 	{
 		"id": "20211213a",
-		"title": "우주의 죽음",
-		"files": [
-			"20211213a-우주의 죽음.png"
-		]
+		"file": "우주의 죽음.png"
 	},
 	{
 		"id": "20211213b",
-		"title": "점심",
-		"files": [
-			"20211213b-점심.png"
-		]
+		"file": "점심.png"
 	},
 	{
 		"id": "20211213c",
-		"title": "잘가",
-		"files": [
-			"20211213c-잘가.png"
-		]
+		"file": "잘가.png"
 	},
 	{
 		"id": "20211215",
-		"title": "공부안하면",
-		"files": [
-			"20211215-공부안하면.png"
-		]
+		"file": "공부안하면.png"
 	},
 	{
 		"id": "20211219a",
-		"title": "1",
-		"files": [
-			"20211219a-1.png"
-		]
+		"file": "1.png"
 	},
 	{
 		"id": "20211219b",
-		"title": "2",
-		"files": [
-			"20211219b-2.png"
-		]
+		"file": "2.png"
 	},
 	{
 		"id": "20211219c",
-		"title": "3",
-		"files": [
-			"20211219c-3.png"
-		]
+		"file": "3.png"
 	},
 	{
 		"id": "20211219d",
-		"title": "4",
-		"files": [
-			"20211219d-4.png"
-		]
+		"file": "4.png"
 	},
 	{
 		"id": "20211220a",
-		"title": "5",
-		"files": [
-			"20211220a-5.png"
-		]
+		"file": "5.png"
 	},
 	{
 		"id": "20211220b",
-		"title": "6",
-		"files": [
-			"20211220b-6.png"
-		]
+		"file": "6.png"
 	},
 	{
 		"id": "20211222a",
-		"title": "7",
-		"files": [
-			"20211222a-7.png"
-		]
+		"file": "7.png"
 	},
 	{
 		"id": "20211222b",
-		"title": "8",
-		"files": [
-			"20211222b-8.png"
-		]
+		"file": "8.png"
 	},
 	{
 		"id": "20211222c",
-		"title": "9",
-		"files": [
-			"20211222c-9.png"
-		]
+		"file": "9.png"
 	},
 	{
 		"id": "20211222d",
-		"title": "4-edit",
-		"files": [
-			"20211222d-4-edit.png"
-		]
+		"file": "4-edit.png"
 	},
 	{
 		"id": "20211225",
-		"title": "1",
-		"files": [
-			"20211225-1.png"
-		]
+		"file": "1.png"
 	},
 	{
 		"id": "20211229a",
-		"title": "국수",
-		"files": [
-			"20211229a-국수.png"
-		]
+		"file": "국수.png"
 	},
 	{
 		"id": "20211229b",
-		"title": "3",
-		"files": [
-			"20211229b-3.png"
-		]
+		"file": "3.png"
 	},
 	{
 		"id": "20211230a",
-		"title": "4",
-		"files": [
-			"20211230a-4.png"
-		]
+		"file": "4.png"
 	},
 	{
 		"id": "20211230b",
-		"title": "5",
-		"files": [
-			"20211230b-5.png"
-		]
+		"file": "5.png"
 	},
 	{
 		"id": "20211231a",
-		"title": "지랄",
-		"files": [
-			"20211231a-지랄.png"
-		]
+		"file": "지랄.png"
 	},
 	{
 		"id": "20211231b",
-		"title": "awesome",
-		"files": [
-			"20211231b-awesome.png"
-		]
+		"file": "awesome.png"
 	},
 	{
 		"id": "20220101",
-		"title": "올해",
-		"files": [
-			"20220101-올해.png"
-		]
+		"file": "올해.png"
 	},
 	{
 		"id": "20220103a",
-		"title": "무서버",
-		"files": [
-			"20220103a-무서버.png"
-		]
+		"file": "무서버.png"
 	},
 	{
 		"id": "20220103b",
-		"title": "아",
-		"files": [
-			"20220103b-아.png"
-		]
+		"file": "아.png"
 	},
 	{
 		"id": "20220103c",
-		"title": "색안겡",
-		"files": [
-			"20220103c-색안겡.png"
-		]
+		"file": "색안겡.png"
 	},
 	{
 		"id": "20220106a",
-		"title": "제목 없음",
-		"files": [
-			"20220106a-제목 없음.png"
-		]
+		"file": "제목 없음.png"
 	},
 	{
 		"id": "20220106b",
-		"title": "불법",
-		"files": [
-			"20220106b-불법.png"
-		]
+		"file": "불법.png"
 	},
 	{
 		"id": "20220109",
-		"title": "치즈",
-		"files": [
-			"20220109-치즈.png"
-		]
+		"file": "치즈.png"
 	},
 	{
 		"id": "20220117",
-		"title": "banana",
-		"files": [
-			"20220117-banana.png"
-		]
+		"file": "banana.png"
 	},
 	{
 		"id": "20220121",
-		"title": "기여운새",
-		"files": [
-			"20220121-기여운새.png"
-		]
+		"file": "기여운새.png"
 	},
 	{
 		"id": "20220130",
-		"title": "마아마아",
-		"files": [
-			"20220130-마아마아.png"
-		]
+		"file": "마아마아.png"
 	},
 	{
 		"id": "20220131",
-		"title": "어디여",
-		"files": [
-			"20220131-어디여.png"
-		]
+		"file": "어디여.png"
 	},
 	{
 		"id": "20220212",
-		"title": "에반대",
-		"files": [
-			"20220212-에반대.png"
-		]
+		"file": "에반대.png"
 	},
 	{
 		"id": "20220214",
-		"title": "전자레인지",
-		"files": [
-			"20220214-전자레인지.png"
-		]
+		"file": "전자레인지.png"
 	},
 	{
 		"id": "20220216",
-		"title": "동물의숲",
-		"files": [
-			"20220216-동물의숲.png"
-		]
+		"file": "동물의숲.png"
 	},
 	{
 		"id": "20220301",
-		"title": "빠꾸유",
-		"files": [
-			"20220301-빠꾸유.png"
-		]
+		"file": "빠꾸유.png"
 	},
 	{
 		"id": "20220302",
-		"title": "소데스네",
-		"files": [
-			"20220302-소데스네.png"
-		]
+		"file": "소데스네.png"
 	},
 	{
 		"id": "20220303a",
-		"title": "너만 보여",
-		"files": [
-			"20220303a-너만 보여.png"
-		]
+		"file": "너만 보여.png"
 	},
 	{
 		"id": "20220303b",
-		"title": "안보인다",
-		"files": [
-			"20220303b-안보인다.png"
-		]
+		"file": "안보인다.png"
 	},
 	{
 		"id": "20220308",
-		"title": "pizza",
 		"files": [
-			"20220308-pizza.png",
-			"20220308-pizza2.png",
-			"20220308-pizza3.png",
-			"20220308-pizza4.png"
+			"pizza.png",
+			"pizza2.png",
+			"pizza3.png",
+			"pizza4.png"
 		]
 	},
 	{
 		"id": "20220312",
-		"title": "제정신",
-		"files": [
-			"20220312-제정신.png"
-		]
+		"file": "제정신.png"
 	},
 	{
 		"id": "20220314",
 		"title": "난 널 좋아해/나 널 좋아해",
 		"files": [
-			"20220314-나 못 읽어.png",
-			"20220314-나 널 좋아해.png",
-			"20220314-농장.png"
+			"나 못 읽어.png",
+			"나 널 좋아해.png",
+			"농장.png"
 		]
 	},
 	{
 		"id": "20220315",
-		"title": "죽이리오",
-		"files": [
-			"20220315-죽이리오.png"
-		]
+		"file": "죽이리오.png"
 	},
 	{
 		"id": "20220322a",
 		"title": "별",
 		"files": [
-			"20220322a-1.png",
-			"20220322a-2.png",
-			"20220322a-3.png",
-			"20220322a-4.png",
-			"20220322a-5.png",
-			"20220322a-6.png"
+			"1.png",
+			"2.png",
+			"3.png",
+			"4.png",
+			"5.png",
+			"6.png"
 		]
 	},
 	{
 		"id": "20220322b",
-		"title": "무의미",
-		"files": [
-			"20220322b-무의미.png"
-		]
+		"file": "무의미.png"
 	},
 	{
 		"id": "20220323",
 		"title": "box",
 		"files": [
-			"20220323-1.png",
-			"20220323-2.png",
-			"20220323-2.5.png",
-			"20220323-3.png",
-			"20220323-3.5.png",
-			"20220323-4.png",
-			"20220323-4.5.png",
-			"20220323-5.png",
-			"20220323-6.png"
+			"1.png",
+			"2.png",
+			"2.5.png",
+			"3.png",
+			"3.5.png",
+			"4.png",
+			"4.5.png",
+			"5.png",
+			"6.png"
 		]
 	},
 	{
 		"id": "20220326",
-		"title": "실수",
-		"files": [
-			"20220326-실수.png"
-		]
+		"file": "실수.png"
 	},
 	{
 		"id": "20220330",
-		"title": "사랑한다",
-		"files": [
-			"20220330-사랑한다.png"
-		]
+		"file": "사랑한다.png"
 	},
 	{
 		"id": "20220508",
-		"title": "鴨像",
-		"files": [
-			"20220508-鴨像.png"
-		]
+		"file": "鴨像.png"
 	},
 	{
 		"id": "20220608a",
-		"title": "조같다",
-		"files": [
-			"20220608a-조같다.png"
-		]
+		"file": "조같다.png"
 	},
 	{
 		"id": "20220608b",
-		"title": "달팽",
-		"files": [
-			"20220608b-달팽.png"
-		]
+		"file": "달팽.png"
 	},
 	{
 		"id": "20220609",
-		"title": "재미써",
-		"files": [
-			"20220609-재미써.png"
-		]
+		"file": "재미써.png"
 	},
 	{
 		"id": "20220610",
-		"title": "아나조",
-		"files": [
-			"20220610-아나조.png"
-		]
+		"file": "아나조.png"
 	},
 	{
 		"id": "20220612",
-		"title": "새우나 뭐해",
-		"files": [
-			"20220612-새우나 뭐해.png"
-		]
+		"file": "새우나 뭐해.png"
 	},
 	{
 		"id": "20220614a",
-		"title": "흑",
-		"files": [
-			"20220614a-흑.png"
-		]
+		"file": "흑.png"
 	},
 	{
 		"id": "20220614b",
-		"title": "BAD",
-		"files": [
-			"20220614b-BAD.png"
-		]
+		"file": "BAD.png"
 	},
 	{
 		"id": "20220614c",
-		"title": "제목 없음",
-		"files": [
-			"20220614c-제목 없음.png"
-		]
+		"file": "제목 없음.png"
 	},
 	{
 		"id": "20220615a",
-		"title": "dlfqhsakf",
-		"rating": -1,
-		"files": [
-			"20220615a-dlfqhsakf.png"
-		]
+		"file": "dlfqhsakf.png",
+		"rating": -1
 	},
 	{
 		"id": "20220615b",
-		"title": "hmm",
-		"rating": -1,
-		"files": [
-			"20220615b-hmm.png"
-		]
+		"file": "hmm.png",
+		"rating": -1
 	},
 	{
 		"id": "20220707",
-		"title": "요코하마토리새",
-		"files": [
-			"20220707-요코하마토리새.png"
-		]
+		"file": "요코하마토리새.png"
 	},
 	{
 		"id": "20220720",
-		"title": "모치론",
-		"files": [
-			"20220720-모치론.png"
-		]
+		"file": "모치론.png"
 	},
 	{
 		"id": "20220805a",
-		"title": "박스",
-		"files": [
-			"20220805a-박스.png"
-		]
+		"file": "박스.png"
 	},
 	{
 		"id": "20220805b",
-		"title": "woaldjqtek",
-		"files": [
-			"20220805b-woaldjqtek.png"
-		]
+		"file": "woaldjqtek.png"
 	},
 	{
 		"id": "20220805c",
-		"title": "bird that will eat anything",
-		"files": [
-			"20220805c-bird that will eat anything.png"
-		]
+		"file": "bird that will eat anything.png"
 	},
 	{
 		"id": "20220809a",
-		"title": "케나다이민",
-		"files": [
-			"20220809a-케나다이민.png"
-		]
+		"file": "케나다이민.png"
 	},
 	{
 		"id": "20220809b",
-		"title": "shit garabage",
-		"files": [
-			"20220809b-shit garabage.png"
-		]
+		"file": "shit garabage.png"
 	},
 	{
 		"id": "20220809c",
-		"title": "bird stuck in a box",
-		"files": [
-			"20220809c-bird stuck in a box.png"
-		]
+		"file": "bird stuck in a box.png"
 	},
 	{
 		"id": "20220809d",
-		"title": "socks",
-		"files": [
-			"20220809d-socks.png"
-		]
+		"file": "socks.png"
 	},
 	{
 		"id": "20221008",
-		"title": "box on head",
-		"files": [
-			"20221008-box on head.png"
-		]
+		"file": "box on head.png"
 	},
 	{
 		"id": "20221011a",
-		"title": "pear",
-		"files": [
-			"20221011a-pear.png"
-		]
+		"file": "pear.png"
 	},
 	{
 		"id": "20221011b",
-		"title": "1",
-		"files": [
-			"20221011b-1.png"
-		]
+		"file": "1.png"
 	},
 	{
 		"id": "20221011c",
-		"title": "비행기",
-		"files": [
-			"20221011c-비행기.png"
-		]
+		"file": "비행기.png"
 	},
 	{
 		"id": "20221011d",
-		"title": "별",
-		"files": [
-			"20221011d-별.png"
-		]
+		"file": "별.png"
 	},
 	{
 		"id": "20221011e",
-		"title": "비빔국수",
-		"files": [
-			"20221011e-비빔국수.png"
-		]
+		"file": "비빔국수.png"
 	},
 	{
 		"id": "20221013",
-		"title": "canned beans",
-		"files": [
-			"20221013-canned beans.png"
-		]
+		"file": "canned beans.png"
 	},
 	{
 		"id": "20221031",
-		"title": "꿈이뭐야",
-		"files": [
-			"20221031-꿈이뭐야.png"
-		]
+		"file": "꿈이뭐야.png"
 	},
 	{
 		"id": "20221101",
-		"title": "chicken tender",
-		"files": [
-			"20221101-chicken tender.png"
-		]
+		"file": "chicken tender.png"
 	},
 	{
 		"id": "20221104",
-		"title": "dowel dies",
-		"files": [
-			"20221104-dowel dies.png"
-		]
+		"file": "dowel dies.png"
 	},
 	{
 		"id": "20221105a",
-		"title": "horse shaped cloud",
-		"files": [
-			"20221105a-horse shaped cloud.png"
-		]
+		"file": "horse shaped cloud.png"
 	},
 	{
 		"id": "20221105b",
 		"title": "자니a",
 		"files": [
-			"20221105b-자니a1.png",
-			"20221105b-자니a2.png"
+			"자니a1.png",
+			"자니a2.png"
 		]
 	},
 	{
 		"id": "20221106a",
-		"title": "happy clam",
-		"files": [
-			"20221106a-happy clam.png"
-		]
+		"file": "happy clam.png"
 	},
 	{
 		"id": "20221106b",
-		"title": "contract hepatitis",
-		"files": [
-			"20221106b-contract hepatitis.png"
-		]
+		"file": "contract hepatitis.png"
 	},
 	{
 		"id": "20221108a",
-		"title": "life and twisty balloon animal",
-		"files": [
-			"20221108a-life and twisty balloon animal.png"
-		]
+		"file": "life and twisty balloon animal.png"
 	},
 	{
 		"id": "20221108b",
-		"title": "hot dog and balloon",
-		"files": [
-			"20221108b-hot dog and balloon.png"
-		]
+		"file": "hot dog and balloon.png"
 	},
 	{
 		"id": "20221115",
-		"title": "avocado",
-		"files": [
-			"20221115-avocado.png"
-		]
+		"file": "avocado.png"
 	},
 	{
 		"id": "20221118a",
-		"title": "1",
-		"files": [
-			"20221118a-1.png"
-		]
+		"file": "1.png"
 	},
 	{
 		"id": "20221118b",
-		"title": "2",
-		"files": [
-			"20221118b-2.png"
-		]
+		"file": "2.png"
 	},
 	{
 		"id": "20221118c",
-		"title": "3",
-		"files": [
-			"20221118c-3.png"
-		]
+		"file": "3.png"
 	},
 	{
 		"id": "20221119",
-		"title": "4",
 		"files": [
-			"20221119-4.png",
-			"20221119-5.png"
+			"4.png",
+			"5.png"
 		]
 	},
 	{
 		"id": "20221121",
-		"title": "train hop to kansas",
-		"files": [
-			"20221121-train hop to kansas.png"
-		]
+		"file": "train hop to kansas.png"
 	},
 	{
 		"id": "20221126",
-		"title": "ピンポンピンポン",
-		"files": [
-			"20221126-ピンポンピンポン.png"
-		]
+		"file": "ピンポンピンポン.png"
 	},
 	{
 		"id": "20221202",
-		"title": "tehe end apocado",
-		"files": [
-			"20221202-tehe end apocado.png"
-		]
+		"file": "tehe end apocado.png"
 	},
 	{
 		"id": "20221210a",
-		"title": "ohill gyro 1",
-		"files": [
-			"20221210a-ohill gyro 1.png"
-		]
+		"file": "ohill gyro 1.png"
 	},
 	{
 		"id": "20221210b",
-		"title": "세상이 참 재밌네",
-		"files": [
-			"20221210b-세상이 참 재밌네.png"
-		]
+		"file": "세상이 참 재밌네.png"
 	},
 	{
 		"id": "20221210c",
-		"title": "fever",
-		"files": [
-			"20221210c-fever.png"
-		]
+		"file": "fever.png"
 	},
 	{
 		"id": "20221216a",
-		"title": "-",
-		"files": [
-			"20221216a--.png"
-		]
+		"file": "-.png"
 	},
 	{
 		"id": "20221216b",
-		"title": "mayo",
-		"files": [
-			"20221216b-mayo.png"
-		]
+		"file": "mayo.png"
 	},
 	{
 		"id": "20221229",
 		"title": "clod",
 		"files": [
-			"20221229-1.png",
-			"20221229-2.png",
-			"20221229-3.png"
+			"1.png",
+			"2.png",
+			"3.png"
 		]
 	},
 	{
 		"id": "20230111",
 		"title": "양",
-		"rating": -1,
 		"files": [
-			"20230111-양1.png",
-			"20230111-양2.png",
-			"20230111-explain.png"
-		]
+			"양1.png",
+			"양2.png",
+			"explain.png"
+		],
+		"rating": -1
 	},
 	{
 		"id": "20230115",
-		"title": "he told because they loved you and care about you",
-		"files": [
-			"20230115-he told because they loved you and care about you.png"
-		]
+		"file": "he told because they loved you and care about you.png"
 	},
 	{
 		"id": "20230118",
-		"title": "땅콩",
-		"files": [
-			"20230118-땅콩.png"
-		]
+		"file": "땅콩.png"
 	},
 	{
 		"id": "20230119",
-		"title": "funny how the dream come true",
-		"files": [
-			"20230119-funny how the dream come true.png"
-		]
+		"file": "funny how the dream come true.png"
 	},
 	{
 		"id": "20230121",
-		"title": "sept 32 a",
-		"files": [
-			"20230121-sept 32 a.png"
-		]
+		"file": "sept 32 a.png"
 	},
 	{
 		"id": "20230131",
-		"title": "rainy day run relief",
-		"files": [
-			"20230131-rainy day run relief.png"
-		]
+		"file": "rainy day run relief.png"
 	},
 	{
 		"id": "20230207",
-		"title": "jony dies from hypothermia",
-		"files": [
-			"20230207-jony dies from hypothermia.png"
-		]
+		"file": "jony dies from hypothermia.png"
 	},
 	{
 		"id": "20230220a",
-		"title": "omg yes i love pizza",
-		"files": [
-			"20230220a-omg yes i love pizza.png"
-		]
+		"file": "omg yes i love pizza.png"
 	},
 	{
 		"id": "20230220b",
-		"title": "pizza still",
-		"files": [
-			"20230220b-pizza still.png"
-		]
+		"file": "pizza still.png"
 	},
 	{
 		"id": "20230306",
-		"title": "the four basic emtions",
-		"files": [
-			"20230306-the four basic emtions.png"
-		]
+		"file": "the four basic emtions.png"
 	},
 	{
 		"id": "20230307a",
-		"title": "sink-looked",
-		"files": [
-			"20230307a-sink-looked.png"
-		]
+		"file": "sink-looked.png"
 	},
 	{
 		"id": "20230307b",
-		"title": "기운도이제",
-		"files": [
-			"20230307b-기운도이제.png"
-		]
+		"file": "기운도이제.png"
 	},
 	{
 		"id": "20230310",
 		"title": "팍",
 		"files": [
-			"20230310-팍1.png",
-			"20230310-팍2.png"
+			"팍1.png",
+			"팍2.png"
 		]
 	},
 	{
 		"id": "20230315",
-		"title": "free-tacos-at-end-of-universe",
-		"files": [
-			"20230315-free-tacos-at-end-of-universe.png"
-		]
+		"file": "free-tacos-at-end-of-universe.png"
 	},
 	{
 		"id": "20230318",
-		"title": "이타이",
-		"files": [
-			"20230318-이타이.png"
-		]
+		"file": "이타이.png"
 	},
 	{
 		"id": "20230324a",
-		"title": "재미없어어쩌지",
-		"files": [
-			"20230324a-재미없어어쩌지.png"
-		]
+		"file": "재미없어어쩌지.png"
 	},
 	{
 		"id": "20230324b",
-		"title": "australia",
-		"files": [
-			"20230324b-australia.png"
-		]
+		"file": "australia.png"
 	},
 	{
 		"id": "20230324c",
-		"title": "hey come on",
-		"files": [
-			"20230324c-hey come on.png"
-		]
+		"file": "hey come on.png"
 	},
 	{
 		"id": "20230325",
-		"title": "shopping",
-		"files": [
-			"20230325-shopping.png"
-		]
+		"file": "shopping.png"
 	},
 	{
 		"id": "20230326a",
-		"title": "higher and higher",
-		"files": [
-			"20230326a-higher and higher.png"
-		]
+		"file": "higher and higher.png"
 	},
 	{
 		"id": "20230326b",
-		"title": "재미없어어쩌지-better",
-		"files": [
-			"20230326b-재미없어어쩌지-better.png"
-		]
+		"file": "재미없어어쩌지-better.png"
 	},
 	{
 		"id": "20230326c",
-		"title": "its not funny",
-		"files": [
-			"20230326c-its not funny.png"
-		]
+		"file": "its not funny.png"
 	},
 	{
 		"id": "20230326d",
-		"title": "milk",
-		"files": [
-			"20230326d-milk.png"
-		]
+		"file": "milk.png"
 	},
 	{
 		"id": "20230329",
-		"title": "cream pasta",
-		"files": [
-			"20230329-cream pasta.png"
-		]
+		"file": "cream pasta.png"
 	},
 	{
 		"id": "20230330",
-		"title": "keys",
-		"files": [
-			"20230330-keys.png"
-		]
+		"file": "keys.png"
 	},
 	{
 		"id": "20230405",
-		"title": "my hat",
-		"files": [
-			"20230405-my hat.png"
-		]
+		"file": "my hat.png"
 	},
 	{
 		"id": "20230415",
-		"title": "venture capital",
-		"files": [
-			"20230415-venture capital.png"
-		]
+		"file": "venture capital.png"
 	},
 	{
 		"id": "20230430",
-		"title": "새닭기",
-		"files": [
-			"20230430-새닭기.png"
-		]
+		"file": "새닭기.png"
 	},
 	{
 		"id": "20230510",
-		"title": "bird dies while eating cheetos",
-		"files": [
-			"20230510-bird dies while eating cheetos.png"
-		]
+		"file": "bird dies while eating cheetos.png"
 	},
 	{
 		"id": "20230512",
-		"title": "costco wholesale",
-		"files": [
-			"20230512-costco wholesale.png"
-		]
+		"file": "costco wholesale.png"
 	},
 	{
 		"id": "20230528",
-		"title": "happy meal toys",
-		"files": [
-			"20230528-happy meal toys.png"
-		]
+		"file": "happy meal toys.png"
 	},
 	{
 		"id": "20230531",
 		"title": "clas 2b",
 		"files": [
-			"20230531-0.png",
-			"20230531-jhonney.png",
-			"20230531-jonny.png",
-			"20230531-joney.png",
-			"20230531-sally.png",
-			"20230531-zoey.png",
-			"20230531-michael.png",
-			"20230531-saewon.png",
-			"20230531-jeff.png"
+			"0.png",
+			"jhonney.png",
+			"jonny.png",
+			"joney.png",
+			"sally.png",
+			"zoey.png",
+			"michael.png",
+			"saewon.png",
+			"jeff.png"
 		]
 	},
 	{
 		"id": "20230604",
-		"title": "소ｶﾓ",
-		"files": [
-			"20230604-소ｶﾓ.png"
-		]
+		"file": "소ｶﾓ.png"
 	},
 	{
 		"id": "20230606",
-		"title": "소파",
-		"files": [
-			"20230606-소파.png"
-		]
+		"file": "소파.png"
 	},
 	{
 		"id": "20230609",
-		"title": "HAPPY CLAM EP 2",
-		"files": [
-			"20230609-HAPPY CLAM EP 2.png"
-		]
+		"file": "HAPPY CLAM EP 2.png"
 	},
 	{
 		"id": "20230614",
-		"title": "society zzyang",
-		"files": [
-			"20230614-society zzyang.png"
-		]
+		"file": "society zzyang.png"
 	},
 	{
 		"id": "20230617",
-		"title": "dissolvation of society",
-		"files": [
-			"20230617-dissolvation of society.png"
-		]
+		"file": "dissolvation of society.png"
 	},
 	{
 		"id": "20230619",
-		"title": "it is what it is",
-		"files": [
-			"20230619-it is what it is.png"
-		]
+		"file": "it is what it is.png"
 	},
 	{
 		"id": "20230701",
-		"title": "딸기",
-		"_mtime": "2023-07-02T02:59:47.234Z",
-		"files": [
-			"20230701-딸기.png"
-		]
+		"file": "딸기.png",
+		"_mtime": "2023-07-02T02:59:47.234Z"
 	},
 	{
 		"id": "20230702",
-		"title": "빨대",
-		"_mtime": "2023-07-02T23:24:35.872Z",
-		"files": [
-			"20230702-빨대.png"
-		]
+		"file": "빨대.png",
+		"_mtime": "2023-07-02T23:24:35.872Z"
 	},
 	{
 		"id": "20230712",
-		"title": "untrue",
-		"_mtime": "2023-07-12T23:12:34.884Z",
-		"files": [
-			"20230712-untrue.png"
-		]
+		"file": "untrue.png",
+		"_mtime": "2023-07-12T23:12:34.884Z"
 	},
 	{
 		"id": "20230715",
-		"title": "마상운",
-		"_mtime": "2023-07-15T20:36:27.480Z",
-		"files": [
-			"20230715-마상운.png"
-		]
+		"file": "마상운.png",
+		"_mtime": "2023-07-15T20:36:27.480Z"
 	},
 	{
 		"id": "20230720",
-		"title": "jeff",
-		"_mtime": "2023-07-20T04:05:41.575Z",
-		"files": [
-			"20230720-jeff.png"
-		]
+		"file": "jeff.png",
+		"_mtime": "2023-07-20T04:05:41.575Z"
 	},
 	{
 		"id": "20230803",
-		"title": "geoff",
-		"_mtime": "2023-08-03T22:22:40.540Z",
-		"files": [
-			"20230803-geoff.png"
-		]
+		"file": "geoff.png",
+		"_mtime": "2023-08-03T22:22:40.540Z"
 	},
 	{
 		"id": "20230809",
-		"title": "비둘기",
-		"_mtime": "2023-08-10T01:59:46.625Z",
-		"files": [
-			"20230809-비둘기.png"
-		]
+		"file": "비둘기.png",
+		"_mtime": "2023-08-10T01:59:46.625Z"
 	},
 	{
 		"id": "20230811",
-		"title": "flop",
-		"_mtime": "2023-08-12T03:23:43.524Z",
-		"files": [
-			"20230811-flop.png"
-		]
+		"file": "flop.png",
+		"_mtime": "2023-08-12T03:23:43.524Z"
 	},
 	{
 		"id": "20230821",
-		"title": "taco bell",
-		"_mtime": "2023-08-21T05:24:14.453Z",
-		"files": [
-			"20230821-taco bell.png"
-		]
+		"file": "taco bell.png",
+		"_mtime": "2023-08-21T05:24:14.453Z"
 	},
 	{
 		"id": "20230822",
-		"title": "taco bell 2",
-		"_mtime": "2023-08-23T00:45:26.308Z",
-		"files": [
-			"20230822-taco bell 2.png"
-		]
+		"file": "taco bell 2.png",
+		"_mtime": "2023-08-23T00:45:26.308Z"
 	},
 	{
 		"id": "20231013",
-		"title": "idc",
-		"_mtime": "2023-10-14T01:14:03.735Z",
-		"files": [
-			"20231013-idc.png"
-		]
+		"file": "idc.png",
+		"_mtime": "2023-10-14T01:14:03.735Z"
 	},
 	{
 		"id": "20231019",
-		"title": "not-funny-bean-joke",
-		"_mtime": "2023-10-20T00:22:57.430Z",
-		"files": [
-			"20231019-not-funny-bean-joke.png"
-		]
+		"file": "not-funny-bean-joke.png",
+		"_mtime": "2023-10-20T00:22:57.430Z"
 	},
 	{
 		"id": "20231023",
-		"title": "avocado2",
-		"_mtime": "2023-10-24T03:38:50.882Z",
-		"files": [
-			"20231023-avocado2.png"
-		]
+		"file": "avocado2.png",
+		"_mtime": "2023-10-24T03:38:50.882Z"
 	},
 	{
 		"id": "20231026",
-		"title": "algorithms",
-		"_mtime": "2023-10-27T00:46:56.789Z",
-		"files": [
-			"20231026-algorithms.png"
-		]
+		"file": "algorithms.png",
+		"_mtime": "2023-10-27T00:46:56.789Z"
 	},
 	{
 		"id": "20231106",
-		"title": "lets go to the beach",
-		"_mtime": "2023-11-06T22:17:24.404Z",
-		"files": [
-			"20231106-lets go to the beach.png"
-		]
+		"file": "lets go to the beach.png",
+		"_mtime": "2023-11-06T22:17:24.404Z"
 	},
 	{
 		"id": "20231107",
-		"title": "costco",
-		"_mtime": "2023-11-08T03:17:51.781Z",
-		"files": [
-			"20231107-costco.png"
-		]
+		"file": "costco.png",
+		"_mtime": "2023-11-08T03:17:51.781Z"
 	},
 	{
 		"id": "20231127",
-		"title": "free",
-		"_mtime": "2023-11-27T16:35:14.644Z",
-		"files": [
-			"20231127-free.png"
-		]
+		"file": "free.png",
+		"_mtime": "2023-11-27T16:35:14.644Z"
 	},
 	{
 		"id": "20231201",
-		"title": "bird dreams of being human",
-		"_mtime": "2023-12-02T04:40:45.683Z",
-		"files": [
-			"20231201-bird dreams of being human.png"
-		]
+		"file": "bird dreams of being human.png",
+		"_mtime": "2023-12-02T04:40:45.683Z"
 	},
 	{
 		"id": "20231208",
-		"title": "jeff the avocado",
-		"_mtime": "2023-12-09T03:26:46.758Z",
-		"files": [
-			"20231208-jeff the avocado.png"
-		]
+		"file": "jeff the avocado.png",
+		"_mtime": "2023-12-09T03:26:46.758Z"
 	},
 	{
 		"id": "20231210",
-		"title": "the ends of time",
-		"_mtime": "2023-12-11T02:46:48.054Z",
-		"files": [
-			"20231210-the ends of time.png"
-		]
+		"file": "the ends of time.png",
+		"_mtime": "2023-12-11T02:46:48.054Z"
 	},
 	{
 		"id": "20231211",
-		"title": "눈이 와요",
-		"_mtime": "2023-12-12T02:20:46.642Z",
-		"files": [
-			"20231211-눈이 와요.png"
-		]
+		"file": "눈이 와요.png",
+		"_mtime": "2023-12-12T02:20:46.642Z"
 	},
 	{
 		"id": "20231213",
-		"title": "biscuits",
-		"_mtime": "2023-12-14T02:01:08.110Z",
-		"files": [
-			"20231213-biscuits.png"
-		]
+		"file": "biscuits.png",
+		"_mtime": "2023-12-14T02:01:08.110Z"
 	},
 	{
 		"id": "20231223",
-		"title": "bubble",
-		"_mtime": "2023-12-24T04:28:14.630Z",
-		"files": [
-			"20231223-bubble.png"
-		]
+		"file": "bubble.png",
+		"_mtime": "2023-12-24T04:28:14.630Z"
 	},
 	{
 		"id": "20240105",
-		"title": "아이스끄리므",
-		"_mtime": "2024-01-06T04:06:28.195Z",
-		"files": [
-			"20240105-아이스끄리므.png"
-		]
+		"file": "아이스끄리므.png",
+		"_mtime": "2024-01-06T04:06:28.195Z"
 	}
 ]

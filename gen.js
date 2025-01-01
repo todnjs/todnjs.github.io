@@ -4,7 +4,32 @@ import { walkSync } from "https://deno.land/std@0.188.0/fs/walk.ts";
 
 const comics_all = JSON.parse(await Deno.readTextFile('comics.json'))
 
-const expected_files = comics_all.map(x => x.files).flat()
+if (comics_all.length !== new Set(comics_all.map(c => c.id)).size)
+	throw `non-unique ids`
+
+for (const comic of comics_all) {
+	if (comic.file != null && comic.files != null)
+		throw `please specify only file or files`
+	if (comic.file == null && comic.files == null)
+		throw `no files attached`
+
+	const fs = comic.file ? [comic.file] : comic.files
+
+	comic._files = fs.map(fname => `${comic.id}-${fname}`)
+
+	if (comic.title == null)
+		comic.title = fs[0].replace(/\.\w+/, '')
+
+	comic._filename = `${comic.id}.html`
+
+	const match = comic.id.match(/(\d{4})(\d{2})(\d{2})(\w+)?/)
+	if (!match) throw comic.id
+	const [, y, m , d, x] = match
+
+	comic._display_id = `${+y}.${+m}.${+d}${x ?? ''}`
+}
+
+const expected_files = comics_all.map(x => x._files).flat()
 const real_files = [...walkSync('docs/img/comic', {includeDirs: false})]
 
 const expected_check = new Set(expected_files)
@@ -29,14 +54,6 @@ for (let i=0; i<comics.length; i+=1) {
 	const c = comics[i]
 	c.prev = comics[i-1]
 	c.next = comics[i+1]
-	c.parts = {}
-	const match = c.id.match(/(\d{4})(\d{2})(\d{2})(\w+)?/)
-	if (!match) throw c.id
-	const [, y, m ,d, x] = match
-	c.parts.y = +y
-	c.parts.m = +m
-	c.parts.d = +d
-	if (x) c.parts.x = x
 }
 
 const to_url = x => x === '.'
@@ -51,7 +68,7 @@ const header = `
 
 const comic_nav = c => `<nav class=comic-nav>
 ${c.prev ? comic_to_link(c.prev) : '<b></b>'}
-←<b>${comic_to_pretty(c)}</b>
+←<b>${c._display_id}</b>
 ←${c.next ? comic_to_link(c.next) : '<b></b>'}
 </nav>`
 
@@ -67,8 +84,8 @@ const index = `
 	${header}
 	<table>
 	<tr><th>id<th>title
-	${comics.map(({ id, title, parts: {y, m, d, x} }) =>
-		`<tr><td><a href='${to_url(id)}'>${y}.${m}.${d}${x?`${x}` : ''}</a><td>${title}`).join('')}
+	${comics.map(({ _filename, _display_id, title }) =>
+		`<tr><td><a href='${_filename}'>${_display_id}</a><td>${title}`).join('')}
 	</table>
 `
 
@@ -85,9 +102,8 @@ const about = `
 	<p>A Tasteful Commentary On Nothing In Particular</p>
 `
 
-const comic_to_pretty = ({ parts: {y, m, d, x} }) => `${y}.${m}.${d}${x?`${x}` : ''}`
 const comic_to_link = c =>
-	`<a href='${to_url(c.id)}'>${comic_to_pretty(c)}</a>`
+	`<a href='${c._filename}'>${c._display_id}</a>`
 
 const comic_to_page = c => `
 <!DOCTYPE html>
@@ -104,7 +120,7 @@ const comic_to_page = c => `
 
 	${comic_nav(c)}
 	<h1>${c.title}</h1>
-	<div class=images>${c.files.map(x => `<img src='img/comic/${x}'>`).join('')}</div>
+	<div class=images>${c._files.map(x => `<img src='img/comic/${x}'>`).join('')}</div>
 	${comic_nav(c)}
 </body>
 `
@@ -112,7 +128,7 @@ const comic_to_page = c => `
 const to_write = [
 	['docs/index.html', index],
 	['docs/about.html', about],
-	...comics.map(c => [`docs/${c.id}.html`, comic_to_page(c)]),
+	...comics.map(c => [`docs/${c._filename}`, comic_to_page(c)]),
 ]
 
 console.log(await Promise.all(to_write.map(x => Deno.writeTextFile(...x))))
